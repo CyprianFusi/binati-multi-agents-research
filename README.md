@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CyprianFusi/binati-multi-agents-research/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong>Binati AInalytics</strong>
 
-  # Binati Multi-Agents Research
+  # 🔍 Binati Multi-Agents Research
 
   _By **BINATI AInalytics**_
 </div>
-
-# 🔍 Binati Multi-Agents Research
 
 An intelligent research chatbot built with Streamlit that leverages multiple data sources to provide comprehensive answers to your questions. The application uses LangChain agents powered by Groq's Llama model to search through ArXiv papers, Wikipedia articles, and the web.
 
