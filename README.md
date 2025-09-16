@@ -40,7 +40,7 @@ An intelligent research chatbot built with Streamlit that leverages multiple dat
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CyprianFusi/binati-multi-agents-research.git
    cd binati-multi-agents-research
    ```
 
