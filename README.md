@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/binati-multi-agents-research/main/assts/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong>Binati AInalytics</strong>
+  <img src="https://raw.githubusercontent.com/CyprianFusi/binati-multi-agents-research/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong>Binati AInalytics</strong>
 
-  # Advanced Multi-Files RAG Chat App
+  # Binati Multi-Agents Research
 
   _By **BINATI AInalytics**_
 </div>
