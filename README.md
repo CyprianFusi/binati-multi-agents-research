@@ -8,6 +8,7 @@
 
 An intelligent research chatbot built with Streamlit that leverages multiple data sources to provide comprehensive answers to your questions. The application uses LangChain agents powered by Groq's Llama model to search through ArXiv papers, Wikipedia articles, and the web.
 
+See deployment demo at https://binati-multi-agents-research-lx2qx6zrzusyxvkqipprny.streamlit.app/
 # Demo
 ![Research Demo](assets/ui_1.png)
 ![Research Demo](assets/ui_2.png)
