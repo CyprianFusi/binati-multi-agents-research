@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/binati-multi-agents-research/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong>Binati AInalytics</strong>
+  <img src="https://raw.githubusercontent.com/CyprianFusi/binati-multi-agents-research/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong></strong>
 
   # 🔍 Binati Multi-Agents Research
 
@@ -125,7 +125,7 @@ binati-multi-agents-research/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE) file for details.
 
 ## 🆘 Troubleshooting
 
