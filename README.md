@@ -14,6 +14,7 @@ See deployment demo at https://binati-multi-agents-research-lx2qx6zrzusyxvkqippr
 ![Research Demo](assets/ui_2.png)
 ![Research Demo](assets/ui_3.png)
 ![Research Demo](assets/ui_4.png)
+![Research Demo](assets/ui_5.png)
 
 ## ✨ Features
 
